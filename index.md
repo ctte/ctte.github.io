@@ -1,5 +1,5 @@
 ![Figure1(a)](/Figure1(a)MSE%20for%20link%20speed%20prediction.png)  
-__Figure1(a) MSE for link speed prediction__
+<font size=36>__Figure1(a) MSE for link speed prediction__</font>
 ![Figure1(b)](/Figure1(b)MAE%20for%20link%20speed%20prediction.png)  
 __Figure1(b) MAE for link speed prediction__
 ## __Figure 1. Link speed prediction accuracy, with/out road network.__
