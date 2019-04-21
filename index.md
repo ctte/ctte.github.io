@@ -1,3 +1,55 @@
+<p align="left">
+	<img src="/Figure1(a)MSE%20for%20link%20speed%20prediction.png" alt="Figure1(a)"  width="300" height="250" align="left">
+  <img src="/Figure1(b)MAE%20for%20link%20speed%20prediction.png" alt="Figure1(b)"  width="300" height="250" align="center">
+</p>
+<p>
+		<em>Figure1(a) MSE for link speed prediction &emsp;&emsp;&emsp; Figure1(b) MAE for link speed prediction</em>
+</p>
+
+## __Figure 1. Link speed prediction accuracy, with/out road network.__
+
+-------------------------------------
+<p align="left">
+	<img src="/Figure2(a)MSE%20for%20link%20speed%20prediction.png" alt="Figure2(a)"  width="300" height="250" align="left">
+  <img src="/Figure2(b)MAE%20for%20link%20speed%20prediction.png" alt="Figure2(b)"  width="300" height="250" align="center">
+</p>
+<p>
+		<em>Figure2(a) MSE for link speed prediction &emsp;&emsp;&emsp; Figure2(b) MAE for link speed prediction</em>
+</p>
+
+## __Figure 2. Link speed prediction accuracy, with/out attention mechanism.__
+
+-------------------------------------------
+
+<p align="left">
+	<img src="/Figure3(a)MSE%20for%20travel%20time%20estimation.png" alt="Figure3(a)"  width="300" height="250" align="left">
+  <img src="/Figure3(b)MAE%20for%20travel%20time%20estimation.png" alt="Figure3(b)"  width="300" height="250" align="center">
+</p>
+<p>
+		<em>Figure3(a) MSE for travel time estimation &emsp;&emsp;&emsp; Figure3(b) MAE for travel time estimation</em>
+</p>
+<div align="left">
+  <img src="/Figure3(c)MAPE%20for%20travel%20time%20estimation.png" alt="Figur3(c)"  width="300" height="250" align="left">
+</div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<div>
+		<em>Figure3(c) MAPE for travel time estimation</em>
+</div>
+
+## __Figure 3. Travel time estimation accuracy, with random embedding or deepwalk for road network.__
+
+-------------------------------------
+<p align="left">
+	<img src="/Figure4(a)random%20embedding%20for%20ETA.png" alt="Figure4(a)"  width="300" height="250" align="left">
+  <img src="/Figure4(b)ResNet%20for%20ETA.png" alt="Figure4(b)"  width="300" height="250" align="center">
+</p>
+<p>
+		<em>Figure4(a)  random embedding for ETA &emsp;&emsp;&emsp;&emsp;&emsp; Figure4(b) ResNet for ETA</em>
+</p>
+
+## __Figure 4. MAPE for travel time estimation: (a) random embedding with/out ResNet; (b) deepwalk with/out ResNet.__
+
+-------------------------------------------
+<!--
 ![Figure1(a)](/Figure1(a)MSE%20for%20link%20speed%20prediction.png)  
 __Figure1(a) MSE for link speed prediction__
 ![Figure1(b)](/Figure1(b)MAE%20for%20link%20speed%20prediction.png)  
@@ -23,3 +75,4 @@ __Figure4(a)  random embedding for ETA__
 ![Figure4(b)](Figure4(b)ResNet%20for%20ETA.png)   
 __Figure4(b) ResNet for ETA__
 ## __Figure 4. MAPE for travel time estimation: (a) random embedding with/out ResNet; (b) deepwalk with/out ResNet.__
+-->
