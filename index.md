@@ -7,7 +7,7 @@
 		<em>Figure1(a) MSE for link speed prediction &emsp;&emsp;&emsp; Figure1(b) MAE for link speed prediction</em>
 </p>
 
-## __Figure 1. Link speed prediction accuracy, with/out road network.__
+### __Figure 1. Link speed prediction accuracy, with/out road network.__
 
 -------------------------------------
 <p align="left">
@@ -19,7 +19,7 @@
 		<em>Figure2(a) MSE for link speed prediction &emsp;&emsp;&emsp; Figure2(b) MAE for link speed prediction</em>
 </p>
 
-## __Figure 2. Link speed prediction accuracy, with/out attention mechanism.__
+### __Figure 2. Link speed prediction accuracy, with/out attention mechanism.__
 
 -------------------------------------------
 
@@ -38,7 +38,7 @@
 		<em>Figure3(c) MAPE for travel time estimation</em>
 </div>
 
-## __Figure 3. Travel time estimation accuracy, with random embedding or deepwalk for road network.__
+### __Figure 3. Travel time estimation accuracy, with random embedding or deepwalk for road network.__
 
 -------------------------------------
 <p align="left">
@@ -50,7 +50,7 @@
 		<em>Figure4(a)  random embedding for ETA &emsp;&emsp;&emsp;&emsp;&emsp; Figure4(b) ResNet for ETA</em>
 </p>
 
-## __Figure 4. MAPE for travel time estimation: (a) random embedding with/out ResNet; (b) deepwalk with/out ResNet.__
+### __Figure 4. MAPE for travel time estimation: (a) random embedding with/out ResNet; (b) deepwalk with/out ResNet.__
 
 -------------------------------------------
 <!--
