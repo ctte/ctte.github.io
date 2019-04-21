@@ -30,7 +30,7 @@
 </p>
 <div align="left">
   <img src="/Figure3(c)MAPE%20for%20travel%20time%20estimation.png" alt="Figur3(c)"  width="300" height="250" align="left">
-</div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <div>
 		<em>Figure3(c) MAPE for travel time estimation</em>
 </div>
