@@ -1,5 +1,6 @@
 <p align="left">
 	<img src="/Figure1(a)MSE%20for%20link%20speed%20prediction.png" alt="Figure1(a)"  width="300" height="250" align="left">
+	&emsp;&emsp;&emsp;
   <img src="/Figure1(b)MAE%20for%20link%20speed%20prediction.png" alt="Figure1(b)"  width="300" height="250" align="center">
 </p>
 <p>
@@ -11,6 +12,7 @@
 -------------------------------------
 <p align="left">
 	<img src="/Figure2(a)MSE%20for%20link%20speed%20prediction.png" alt="Figure2(a)"  width="300" height="250" align="left">
+	&emsp;&emsp;&emsp;
   <img src="/Figure2(b)MAE%20for%20link%20speed%20prediction.png" alt="Figure2(b)"  width="300" height="250" align="center">
 </p>
 <p>
@@ -23,6 +25,7 @@
 
 <p align="left">
 	<img src="/Figure3(a)MSE%20for%20travel%20time%20estimation.png" alt="Figure3(a)"  width="300" height="250" align="left">
+	&emsp;&emsp;&emsp;
   <img src="/Figure3(b)MAE%20for%20travel%20time%20estimation.png" alt="Figure3(b)"  width="300" height="250" align="center">
 </p>
 <p>
@@ -40,6 +43,7 @@
 -------------------------------------
 <p align="left">
 	<img src="/Figure4(a)random%20embedding%20for%20ETA.png" alt="Figure4(a)"  width="300" height="250" align="left">
+	&emsp;&emsp;&emsp;
   <img src="/Figure4(b)ResNet%20for%20ETA.png" alt="Figure4(b)"  width="300" height="250" align="center">
 </p>
 <p>
