@@ -56,7 +56,7 @@
 <p align="left">
 	<img src="/Figure5MAPE%20for%20IMU.png" alt="Figure5"  width="300" height="250" align="left">
 	&emsp;&emsp;&emsp;
-</p><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</p><br /><br /><br /><br /><br /><br /><br /><br />
 <p>
 		<em>Figure5 MAPE for IMU</em>
 </p>
@@ -80,7 +80,7 @@
 	<img src="/Figure7(a)Travel%20time%20vs%20MAPE.png" alt="Figure7(a)"  width="300" height="250" align="left">
 	&emsp;&emsp;&emsp;
   
-</p><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</p><br /><br /><br /><br /><br /><br /><br /><br />
 <p>
 		<em>Figure7(a) Travel time vs MAPE &emsp;&emsp;&emsp;&emsp;&emsp; </em>
 </p>
