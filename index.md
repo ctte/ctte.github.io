@@ -53,6 +53,41 @@
 ### __Figure 4. MAPE for travel time estimation: (a) random embedding with/out ResNet; (b) deepwalk with/out ResNet.__
 
 -------------------------------------------
+<p align="left">
+	<img src="/Figure5MAPE%20for%20IMU.png" alt="Figure5"  width="300" height="250" align="left">
+	&emsp;&emsp;&emsp;
+</p><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<p>
+		<em>Figure5 MAPE for IMU</em>
+</p>
+
+### __Figure 5. MAPE for travel time estimation with IMU data.__
+
+-------------------------------------------
+<p align="left">
+	<img src="/Figure6(a)Dropout%20vs%20MAPE.png" alt="Figure6(a)"  width="300" height="250" align="left">
+	&emsp;&emsp;&emsp;
+  <img src="/Figure6(b)Hidden%20state%20size%20vs%20MAPE.png" alt="Figure6(b)"  width="300" height="250" align="center">
+</p>
+<p>
+		<em>Figure6(a) Dropout vs MAPE &emsp;&emsp;&emsp;&emsp;&emsp; Figure6(b)Hidden state size vs MAPE</em>
+</p>
+
+### __Figure 6. MAPE for nerual network hyper-parameters: (a) dropout value; (b) hidden state size.__
+
+-------------------------------------------
+<p align="left">
+	<img src="/Figure7(a)Travel%20time%20vs%20MAPE.png" alt="Figure7(a)"  width="300" height="250" align="left">
+	&emsp;&emsp;&emsp;
+  
+</p><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<p>
+		<em>Figure7(a) Travel time vs MAPE &emsp;&emsp;&emsp;&emsp;&emsp; </em>
+</p>
+
+### __Figure 7. MAPE vs travel time(a) and travel distance (b).__
+
+-------------------------------------------
 <!--
 ![Figure1(a)](/Figure1(a)MSE%20for%20link%20speed%20prediction.png)  
 __Figure1(a) MSE for link speed prediction__
