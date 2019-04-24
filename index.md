@@ -61,7 +61,7 @@
 		<em>Figure5 MAPE for IMU</em>
 </p>
 
-### __Figure 5. MAPE for travel time estimation with IMU data, reducing the MAPE value with 0.3%.__
+### __Figure 5. MAPE for travel time estimation with IMU data, reducing the MAPE value with 0.5%.__
 
 -------------------------------------------
 <p align="left">
