@@ -54,7 +54,7 @@
 
 -------------------------------------------
 <p align="left">
-	<img src="/Figure5MAPE%20for%20IMU.png" alt="Figure5"  width="300" height="250" align="left">
+	<img src="/MAPE_SENSORS.PNG" alt="Figure5"  width="300" height="250" align="left">
 	&emsp;&emsp;&emsp;
 </p><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <p>
