@@ -7,7 +7,7 @@
 		<em>Figure1(a) MSE for link speed prediction &emsp;&emsp;&emsp; Figure1(b) MAE for link speed prediction</em>
 </p>
 
-### __Figure 1. Link speed prediction accuracy, with/out road network.__
+### __Figure 1. Link speed prediction accuracy, with/out road network.We can observe that road network reduces the MSE from to, and reduces MAE from to.__
 
 -------------------------------------
 <p align="left">
@@ -19,7 +19,7 @@
 		<em>Figure2(a) MSE for link speed prediction &emsp;&emsp;&emsp; Figure2(b) MAE for link speed prediction</em>
 </p>
 
-### __Figure 2. Link speed prediction accuracy, with/out attention mechanism.__
+### __Figure 2. Link speed prediction accuracy, with/out attention mechanism.We can observe that out attention mechanism reduces the MSE from to, and reduces the MAE from to.__
 
 -------------------------------------------
 
@@ -38,7 +38,7 @@
 		<em>Figure3(c) MAPE for travel time estimation</em>
 </div>
 
-### __Figure 3. Travel time estimation accuracy, with random embedding or deepwalk for road network.__
+### __Figure 3. Travel time estimation accuracy, with random embedding or deepwalk for road network.We can observe that with the random embedding or deepwalk embedding for road network, the MSE is and , the MAE is and , and the MAPE is and , respectively. The deepwalk representation helps to convergence the loss more quickly and reaching a lower level.__
 
 -------------------------------------
 <p align="left">
@@ -50,7 +50,7 @@
 		<em>Figure4(a)  random embedding for ETA &emsp;&emsp;&emsp;&emsp;&emsp; Figure4(b) ResNet for ETA</em>
 </p>
 
-### __Figure 4. MAPE for travel time estimation: (a) random embedding with/out ResNet; (b) deepwalk with/out ResNet.__
+### __Figure 4. MAPE for travel time estimation: (a) random embedding with/out ResNet; (b) deepwalk with/out ResNet.We can observe tha the ResNet module reduces the MAPE significantly, from to for random embedding, and from to for deepwalk embedding.__
 
 -------------------------------------------
 <p align="left">
@@ -61,7 +61,7 @@
 		<em>Figure5 MAPE for IMU</em>
 </p>
 
-### __Figure 5. MAPE for travel time estimation with IMU data, reducing the MAPE value with 0.3%.__
+### __Figure 5. MAPE for travel time estimation with IMU data, reducing the MAPE value with 0.3%.We input the IMU data with a FC layer and get a scale factor, then amend the output of nerual network with this scalue factor (multiplication). Since our IMU data is very sparse (1 sample/3 seconds), it only reduces the MAPE loss with 0.5%. The experiment proves the effectiveness of IMU data, and we will test more fin-grained IMU data in the future for large improvement.__
 
 -------------------------------------------
 <p align="left">
@@ -73,7 +73,7 @@
 		<em>Figure6(a) Dropout vs MAPE &emsp;&emsp;&emsp;&emsp;&emsp; Figure6(b)Hidden state size vs MAPE</em>
 </p>
 
-### __Figure 6. MAPE for nerual network hyper-parameters: (a) dropout value; (b) hidden state size.__
+### __Figure 6. MAPE for nerual network hyper-parameters: (a) dropout value; (b) hidden state size.We have set the dropout value with 0.2, 0.5, and 0.7, and the MAPE loss is 24.4%, 24.38%, and 24.14%, respectively. In addition, we have set the number of LSTM hidden state size with 16, 32, and 64 (all with dropout at 0.2), and the corresponding MAPE loss is 24.02%, 24.18%, and 24.32%, respectively. Such experiment shows the rubostness of our model with different parameters.__
 
 -------------------------------------------
 <p align="left">
@@ -85,7 +85,7 @@
 		<em>Figure7(a) Travel time vs MAPE &emsp;&emsp;&emsp;&emsp;&emsp; </em>
 </p>
 
-### __Figure 7. MAPE vs travel time(a) and travel distance (b).__
+### __Figure 7. MAPE vs travel time(a) and travel distance (b).We can observe that the MAPE loss increases with longer travel time, but its variance reduces. This is consistent with our common sense.__
 
 -------------------------------------------
 <!--
