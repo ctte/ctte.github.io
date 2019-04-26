@@ -54,14 +54,14 @@
 
 -------------------------------------------
 <p align="left">
-	<img src="/Figure5MAPE%20for%20IMU.png" alt="Figure5"  width="300" height="250" align="left">
+	<img src="/MAPE_SENSORS.PNG" alt="Figure5"  width="300" height="250" align="left">
 	&emsp;&emsp;&emsp;
 </p><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <p>
 		<em>Figure5 MAPE for IMU</em>
 </p>
 
-### __Figure 5. MAPE for travel time estimation with IMU data, reducing the MAPE value with 0.3%.We input the IMU data with a FC layer and get a scale factor, then amend the output of nerual network with this scalue factor (multiplication). Since our IMU data is very sparse (1 sample/3 seconds), it only reduces the MAPE loss with 0.5%. The experiment proves the effectiveness of IMU data, and we will test more fin-grained IMU data in the future for large improvement.__
+### __Figure 5. MAPE for travel time estimation with IMU data, reducing the MAPE value with 0.5%.We input the IMU data with a FC layer and get a scale factor, then amend the output of nerual network with this scalue factor (multiplication). Since our IMU data is very sparse (1 sample/3 seconds), it only reduces the MAPE loss with 0.5%. The experiment proves the effectiveness of IMU data, and we will test more fin-grained IMU data in the future for large improvement.__
 
 -------------------------------------------
 <p align="left">
