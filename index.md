@@ -54,7 +54,7 @@
 
 -------------------------------------------
 <p align="left">
-	<img src="/MAPE_SENSORS.PNG" alt="Figure5"  width="300" height="250" align="left">
+	<img src="/latest.PNG" alt="Figure5"  width="300" height="250" align="left">
 	&emsp;&emsp;&emsp;
 </p><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <p>
