@@ -61,7 +61,7 @@
 		<em>Figure5 MAPE for IMU</em>
 </p>
 
-### __Figure 5. MAPE for travel time estimation with IMU data, reducing the MAPE value with 0.5%.We input the IMU data with a FC layer and get a scale factor, then amend the output of nerual network with this scalue factor (multiplication). Since our IMU data is very sparse (1 sample/3 seconds), it only reduces the MAPE loss with 0.5%. The experiment proves the effectiveness of IMU data, and we will test more fine-grained IMU data in the future for more improvement.__
+### __Figure 5. MAPE for travel time estimation with IMU data, reducing the MAPE value with 0.5%.We put the IMU data into conv1d layers with different kernel size (specifically, they're 3, 6 and 9) and 6 out channels. Moreover, we concat the output features and input them with a FC layer to get a scale factor, then amend the output of nerual network with this scalue factor (multiplication). Since our IMU data is very sparse (1 sample/3 seconds), it only reduces the MAPE loss with 0.5%. The experiment proves the effectiveness of IMU data, and we will test more fine-grained IMU data in the future for more improvement.__
 
 -------------------------------------------
 <p align="left">
